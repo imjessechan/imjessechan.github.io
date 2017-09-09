@@ -4,15 +4,15 @@
     
     <entry>
       <title><![CDATA[GTD112]]></title>
-      <url>%2F2017%2F09%2F08%2FGTD%2F</url>
+      <url>%2F2017%2F09%2F09%2FGTD%2F</url>
       <content type="text"></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[Hexo个人微博搭建]]></title>
-      <url>%2F2017%2F03%2F05%2FJesse-hello%2F</url>
-      <content type="text"><![CDATA[1.Hexo折腾记2.打造属于自己的随身仓库(maven)3.Android项目架构之IM(MVP、Dagger、Rxjava……)4.Ubuntu搭建Git服务器5.6.7.Kotlinasdf8.9.10.FFmpeg11.OpenGLES2.012.xxx Mac相关1.快捷键2.命令]]></content>
+      <title><![CDATA[hexo搭建博客]]></title>
+      <url>%2F2017%2F09%2F09%2Fhexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%2F</url>
+      <content type="text"><![CDATA[常用命令12345678910hexo s(server) 开启预览访问(http://localhost:4000)hexo clean 清理hexo g(generate) 生成静态页面至public目录hexo d(deploy) 发布到githexo new &quot;postName&quot; 新建文章hexo new page &quot;pageName&quot; 新建页面hexo version 查看Hexo版本]]></content>
     </entry>
 
     
