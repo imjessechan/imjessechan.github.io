@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[Unreal入门学习笔记1]]></title>
+      <url>%2F2017%2F10%2F12%2FUnreal%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01%2F</url>
+      <content type="text"><![CDATA[安装 1、平台安装Unreal官网下载安装包并安装，安装完其实是类似Steam的一个平台登录成功后，可以在UNREAL ENGINE中找到开发者相关的内容 2、引擎安装进入上一步中提到的UNREAL ENGINE，出现如下界面，然后点击Library，再点击Add Versions，添加最新版本的引擎 3、启动安装完成后点击Launch启动引擎]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[GTD112]]></title>
       <url>%2F2017%2F09%2F09%2FGTD%2F</url>
       <content type="text"></content>
